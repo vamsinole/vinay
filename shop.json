@@ -1,0 +1,690 @@
+[{
+  "id": 1,
+  "name": "Alpha Lipoic Acid Capsules",
+  "sellingPoint": "Antioxidant, Cardiovasular and Diabetic health",
+  "category": "Antioxidant",
+  "functionalActivity": "Antioxidant",
+  "info": "ALA is an antioxidant, promotes energy production, and helps in revitalize the underlying structure of skin, so it can look healthier and more radiant, promote the maintenance of healthy neural tissues, and proper glucose metabolism, cardiovascular function",
+  "type": "CAPSULE",
+  "img": "heliosImages/BCAA1.jpg"
+}, {
+  "id": 2,
+  "name": "Helios Ganoderma Coffee",
+  "sellingPoint": "Anti Aging, Anti stress & Immune booster",
+  "category": "Coffee Powders",
+  "functionalActivity": "Anti Aging & Immune booster",
+  "info": "Helios Ganoderma coffee is a powdered drink mix, delicious healthy beverage from ganoderma extract. It can boost immunity, help with weight loss, improve memory, increase energy stamina, lower cholesterol, reverse the aging process and stimulate circulation",
+  "type": "COFFEE"
+}, {
+  "id": 3,
+  "name": "Boswellia Capsules",
+  "sellingPoint": "Anti inflammatory & Weight management",
+  "category": "Herbal Products",
+  "functionalActivity": "Weight management & Anti arthritic",
+  "info": "Boswellia treats osteoarthritis, fibrositis, rheumatism, small joint disease, lower back pain, provides faster relief also reduces cholesterol level and body weight",
+  "type": "CAPSULE"
+}, {
+  "id": 4,
+  "name": "Curcumin Boswellia Piperine Capsules",
+  "sellingPoint": "Anti inflammatory, Anti Oxidant, Detoxifier",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti inflammatory",
+  "info": "This is a natural combination formula for anti inflammatory, Curcumin suppresses the root causes of inflammation, while Boswellia acts on existing inflammation in our bodies. Taken together, Curcumin and Boswellia are much more than just a band aid to temporarily relieve pain",
+  "type": "CAPSULE"
+}, {
+  "id": 5,
+  "name": "Curcumin Boswellia Capsules",
+  "sellingPoint": "Anti inflammatory, Anti Oxidant, Detoxifier",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti inflammatory",
+  "info": "This is a natural combination formula for anti inflammatory, Curcumin suppresses the root causes of inflammation, while Boswellia acts on existing inflammation in our bodies. Taken together, Curcumin and Boswellia are much more than just a band aid to temporarily relieve pain",
+  "type": "CAPSULE"
+}, {
+  "id": 6,
+  "name": "Lycopene, methylcobalamin, carotenoid, multivitamin capsules",
+  "sellingPoint": "Anti Oxidant & Anti Cancer, Immune booster, Anti Aging",
+  "category": "Carotenoids",
+  "functionalActivity": "Anti Oxidant & Anti Cancer",
+  "info": "This combination is a booster dose of antioxidant, useful in energy production, management of healthy skin, production of red blood cells, age related macular diseases, strengthens the immune system and regulates blood pressure",
+  "type": "CAPSULE"
+}, {
+  "id": 7,
+  "name": "Curcumin Piperine Capsules",
+  "sellingPoint": "Anti Oxidant , Anti inflammatory, Brain and Liver health",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Oxidant & Anti inflammatory",
+  "info": "This combination is a powerful anti oxidant and anti inflammatory, protects the brain cells and maintains healthy liver",
+  "type": "CAPSULE"
+}, {
+  "id": 8,
+  "name": "Ginkgo biloba Capsules",
+  "sellingPoint": "Anti Oxidant, Anti aging, Anti-inflammatory, Anti Stress, Immune booster",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Oxidant & Anti aging",
+  "info": "Ginkgo biloba is an antioxidant, traditionally used for memory enhancement, concentration, stress reliever, antidepressant, it protect against lipid peroxidation",
+  "type": "CAPSULE"
+}, {
+  "id": 9,
+  "name": "Ganoderma Capsules",
+  "sellingPoint": "Anti Oxidant, Anti aging, Anti-inflammatory, Immune booster",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Oxidant & Anti aging",
+  "info": "Ganoderma is a powerful antioxidant, anti aging, anti-inflammatory, anti cancer, immune booster, reduces heart diseases, joint pains, body pains, insomnia, improves the sleep, appetite, Strengthens Neurological, Sensory, Respiratory, Circulatory, Digestive, Metabolic and Excretory",
+  "type": "CAPSULE"
+}, {
+  "id": 10,
+  "name": "Lycopene Capsules",
+  "sellingPoint": "Anti Oxidant, Anti cancer, Anti Aging, Heart health",
+  "category": "Carotenoids",
+  "functionalActivity": "Anti Oxidant & Anti Cancer",
+  "info": "This supplement for lung cancer, prostate cancer, breast cancer, ovarian cancer",
+  "type": "CAPSULE"
+}, {
+  "id": 11,
+  "name": "Lycopene with Multivitamin Capsules",
+  "sellingPoint": "Anti Oxidant, Anti cancer, Anti Aging, Heart health",
+  "category": "Carotenoids",
+  "functionalActivity": "Anti Oxidant & Anti Cancer",
+  "info": "This supplement for lung cancer, prostate cancer, breast cancer, ovarian cancer",
+  "type": "CAPSULE"
+}, {
+  "id": 12,
+  "name": "Lycopene 6% Powder",
+  "sellingPoint": "Anti Oxidant, Anti cancer, Heart health, HPV infections",
+  "category": "Nutraceutical Raw materials",
+  "functionalActivity": "Anti Oxidant",
+  "info": "Lycopene is an antioxidant, and it prevents the heart diseases, hardening of arteries, cancers and HPV infections",
+  "type": "POWDER"
+}, {
+  "id": 13,
+  "name": "Beta carotene 10% Powder",
+  "sellingPoint": "Anti Oxidant, Anti cancer, Heart Health, Immune booster",
+  "category": "Nutraceutical Raw materials",
+  "functionalActivity": "Anti Oxidant",
+  "info": "Beta-Carotene is a source of vitamin A, it reduces risks of cancer, heart diseases, sun damages and it enhances the immune responses to prevent the infections",
+  "type": "POWDER"
+}, {
+  "id": 14,
+  "name": "Ginkgo biloba, Ginseng with Green tea Extract & Multi vitamin Capsules",
+  "sellingPoint": "Anti Oxidant, Anti cancer, Memory booster",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Oxidant & Memory booster",
+  "info": "This combination useful in treatment of cancer, protect against the free radical damaged cells, lowering the cholesterol levels, Improving blood flow and reducing short term memory loss",
+  "type": "CAPSULE"
+}, {
+  "id": 15,
+  "name": "Curcumin Capsules",
+  "sellingPoint": "Anti Oxidant, Anti inflammatory, Anti-septic, Brain and Liver health, Detoxifier",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Oxidant & Anti inflammatory",
+  "info": "Curcumin is an antioxidant, anti inflammatory, protects the brain cells and maintains healthy liver",
+  "type": "CAPSULE"
+}, {
+  "id": 16,
+  "name": "Arjuna Capsules",
+  "sellingPoint": "Anti oxidant, Anti stress, Cardiovasular health, Blood circulation",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Stress",
+  "info": "Arjuna is a powerful antioxidant, helps in reducing hypertension, stress, nervousness and heart health",
+  "type": "CAPSULE"
+}, {
+  "id": 17,
+  "name": "Tulsi Capsules",
+  "sellingPoint": "Anti Stress, Anti Aging, Imune booster, Liver & Lung health",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Stress & Anti Aging",
+  "info": "Tulsi is a immune booster, anti aging, anti stress, improves stamina, supports bronchial lung function and respiratory functions",
+  "type": "CAPSULE"
+}, {
+  "id": 18,
+  "name": "Ashwagandha Capsules",
+  "sellingPoint": "Anti stress, Anti inflammatory, Anti aging, Brain health, Reproductive Health & Fertility",
+  "category": "Herbal Products",
+  "functionalActivity": "Anti Stress",
+  "info": "Ashwagandha promotes physical fitness, relieves stress, supports brain function, inflammatory response, Strong rejuvenative and powerful aphrodisiac",
+  "type": "CAPSULE"
+}, {
+  "id": 19,
+  "name": "Bacopa Capsules",
+  "sellingPoint": "Anti Stress, Memory Booster, Liver Health",
+  "category": "",
+  "functionalActivity": "",
+  "info": "Bacopa is a brain tonic, Which stimulates the nerve and brain cells, Improves the memory, blood circulation, supports liver, Intestinal health and healthy skin, lymph",
+  "type": "CAPSULE"
+}, {
+  "id": 20,
+  "name": "He Coffee",
+  "sellingPoint": "Anti Stress, Mens Health",
+  "category": "Coffee Powders",
+  "functionalActivity": "Anti Stress",
+  "info": "HE Coffee is a delicious healthy beverage from Ashwagandha extract and it relieves the stress and supports the brain function",
+  "type": "COFFEE"
+}, {
+  "id": 21,
+  "name": "Pomegranate Capsules",
+  "sellingPoint": "Antioxidant, Anti Aging, Anti-inflammatory, DNA Protection",
+  "category": "Antioxidant",
+  "functionalActivity": "Antioxidant & Anti Aging",
+  "info": "Pomegranate contains polyphenols that help to promote antioxidant health, fight cell damaging free radicals, reduce platelet aggregation and lower blood pressure",
+  "type": "CAPSULE"
+}, {
+  "id": 22,
+  "name": "Pine bak capsules",
+  "sellingPoint": "Antioxidant, Anti inflammatory, Cardiovascular health",
+  "category": "Antioxidant",
+  "functionalActivity": "Antioxidant & Anti inflammatory",
+  "info": "Pine bark extract is an antioxidant, anti inflammatory, control blood pressure and circulation thus supports cardiovascular health",
+  "type": "CAPSULE"
+}, {
+  "id": 23,
+  "name": "Pycnogenol Capsules",
+  "sellingPoint": "Antioxidant, Anti inflammatory, Skin, Eyes, Ears, and joints Health, Vascular function",
+  "category": "Antioxidant",
+  "functionalActivity": "Antioxidant",
+  "info": "Pycnogenol is a powerful antioxidant, anti inflammatory that supports the endothelium, circulatory, vascular, normal cognitive, sexual functions. It also helps in healthier skin, eyes, ears, and joints, normals the glucose levels",
+  "type": "CAPSULE"
+}, {
+  "id": 24,
+  "name": " Grape seed Capsules  ",
+  "sellingPoint": " Antioxidant, Immune booster, Eye & Joint health ",
+  "category": " Antioxidant ",
+  "functionalActivity": " Antioxidant & Immune booster ",
+  "info": " Grape Seed is an antioxidant, antiaging and it supports healthy vision, maintains joint health ",
+  "type": "CAPSULE"
+}, {
+  "id": 25,
+  "name": "Conjugated linolenic acid Powder (CLA)",
+  "sellingPoint": "Body building & Weight Management Supplement",
+  "category": "Nutraceutical Raw materials",
+  "functionalActivity": "Body building & Weight Management Supplement",
+  "info": "CLA is a natural, stimulant-free, fatty acid that can help build muscles, support healthy weight loss, and promote exercise recovery",
+  "type": "POWDER"
+}, {
+  "id": 26,
+  "name": "BCAA (Branched Chain Amino Acids) Capsules",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "Amino Acids",
+  "functionalActivity": "Body building Supplement",
+  "info": "BCAA are Essential amino acids and are depleted during training and recovery, Supplementation may therefore minimize muscle tissue loss during exercise and speed up recovery",
+  "type": "CAPSULE"
+}, {
+  "id": 27,
+  "name": "Helios Healthy Whey protein (Vanilla)",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "Protein Powder",
+  "functionalActivity": "Body building Supplement",
+  "info": "Helios Healthy whey protein serves as dietary supplement for muscle builders, diabetic patients and immunity improvement for people of all ages",
+  "type": "POWDER"
+}, {
+  "id": 28,
+  "name": "Helios Gold standard 100% Whey Protein with DHA & MCT",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "Protein Powder",
+  "functionalActivity": "Body building Supplement",
+  "info": "Helios Gold standard whey protein with DHA & MCT helps in muscle building, weight loss, body fat loss, controls glucose levels after meals and improves brain function",
+  "type": "POWDER"
+}, {
+  "id": 29,
+  "name": "Helios Gold standard 100% Whey Isolate",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "Protein Powder",
+  "functionalActivity": "Body building Supplement",
+  "info": "Helios Gold standard whey isolate is a purest form of whey protein with low carbohydrate, fat, and zero sugar for building muscles. It is rich in amino acids and BCAAs helps in muscle recovery and growth",
+  "type": "POWDER"
+}, {
+  "id": 30,
+  "name": "Helios Xtreme muscle mass gainer",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "Protein Powder",
+  "functionalActivity": "Body building Supplement",
+  "info": "Helios Xtreme muscle mass gainer has whey protein, which easily digests and helps in muscle building. This is rich in BCAAs, amino acids helps in weight loss, fat loss and boosts muscle hypertrophy and enhances athletic performance",
+  "type": "POWDER"
+}, {
+  "id": 31,
+  "name": "Helios Weight Gainer",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "",
+  "functionalActivity": "",
+  "info": "",
+  "type": "POWDER"
+}, {
+  "id": 32,
+  "name": "BCAA Powder",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "",
+  "functionalActivity": "",
+  "info": "",
+  "type": "POWDER"
+}, {
+  "id": 33,
+  "name": "Creatine Monohydrate",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "",
+  "functionalActivity": "",
+  "info": "",
+  "type": "POWDER"
+}, {
+  "id": 34,
+  "name": "L-Glutamine Powder",
+  "sellingPoint": "Body building Supplement, Sports Nutrition",
+  "category": "",
+  "functionalActivity": "",
+  "info": "",
+  "type": "POWDER"
+}, {
+  "id": 35,
+  "name": "L-Carnitine Capsule",
+  "sellingPoint": "Body building Supplement, Sports Nutrition, Brain and Heart health",
+  "category": "Amino Acids",
+  "functionalActivity": "Weight management",
+  "info": "L-Carnitine is an amino acid supports fat, carbohydrate, protein metabolism and brain, heart, cognitive functions, effective fat burner, weight reducer",
+  "type": "CAPSULE"
+}, {
+  "id": 36,
+  "name": "L-Glutamine Capsules",
+  "sellingPoint": "Body building Supplement, Sports Nutrition, Gastrointestinal health",
+  "category": "Amino Acids",
+  "functionalActivity": "Body building Supplement",
+  "info": "Glutamine is an essential amino acids, It involves in maintaining positive nitrogen balance (an anabolic state) and aids rapidly growing cells (immune system lymphocytes and intestinal cell enterocytes)",
+  "type": "CAPSULE"
+}, {
+  "id": 37,
+  "name": "L-Carnitine, Lycopene, Co Q10, Multi vitamin Capsules",
+  "sellingPoint": "Body building Supplement, Sports Nutrition, Metabolic energy enhancement",
+  "category": "Carotenoids",
+  "functionalActivity": "Metabolic energy enhancement",
+  "info": "This combination supports fat, carbohydrate, protein metabolism and production of ATP (Energy)",
+  "type": "CAPSULE"
+}, {
+  "id": 38,
+  "name": "L-Arginine Capsules",
+  "sellingPoint": "Body building Supplement, Sports Nutrition, Stimulate production of growth hormones, Heart health",
+  "category": "Amino Acids",
+  "functionalActivity": "Body building Supplement",
+  "info": "L-Arginine is an essential amino acid, which improves the strength, endurance, massive muscle gain, it is a precursor of nitric acid, it promotes vasodilatation which helps in healthy blood flow, cardiovascular health and it Stimulate production of growth hormones",
+  "type": "CAPSULE"
+}, {
+  "id": 39,
+  "name": "Glucosamine Sulfate Capsules",
+  "sellingPoint": "Bone & Joint Health",
+  "category": "Bone & Joint Health",
+  "functionalActivity": "Bone & Joint Health",
+  "info": "Glucosamine Chondroitin is an important building block for joints and keeps the cartilage in joints healthy",
+  "type": "CAPSULE"
+}, {
+  "id": 40,
+  "name": "Calcium, Magnesium and Vitamin D Capsules",
+  "sellingPoint": "Bone & Joint Health, Joint Pain reliever",
+  "category": "Bone & Joint Health",
+  "functionalActivity": "Bone & Joint Health",
+  "info": "This combination provides beneficial amounts of calcium and also includes magnesium and vitamin D for calcium absorption",
+  "type": " CAPSULE "
+}, {
+  "id": 41,
+  "name": "DHA 10%, 15% and 20% (Fish ) Powder",
+  "sellingPoint": "Brain & visual Development",
+  "category": "Nutraceutical Raw materials",
+  "functionalActivity": "Brain & visual Development",
+  "info": "Docosahexaenoic acid (DHA) omega – 3 is a building block of the brain. DHA has been recognized to enhance the mental, visual development in children and plays a vital role in brain function",
+  "type": "CAPSULE"
+}, {
+  "id": 42,
+  "name": "DHA 10 %, 15% and 20% (Algae -Veg) Powder",
+  "sellingPoint": "Brain & visual Development",
+  "category": "Nutraceutical Raw materials",
+  "functionalActivity": "Brain & visual Development",
+  "info": "Docosahexaenoic acid (DHA) omega – 3 is a building block of the brain. DHA has been recognized to enhance mental and visual development in children’s and also plays a vital role in brain function",
+  "type": "CAPSULE"
+}, {
+  "id": 43,
+  "name": "Nutri CAN",
+  "sellingPoint": "Cancer Nutrition Supplement",
+  "category": "Protein Powder",
+  "functionalActivity": "Cancer Nutrition Supplement",
+  "info": "NutriCan is a nutritional supplement for cancer patients suffering with Cachexia, it has high protein content with enriched Omega -3's (EPA and DHA) which helps in normalizing metabolism and promotes weight gain. It helps in relieving constipation and lowers the chances of diarrhea",
+  "type": "POWDER"
+}, {
+  "id": 44,
+  "name": "Co Q 10 plus L-Carnitine Capsules",
+  "sellingPoint": "Cardiovascular Health",
+  "category": "Heart health",
+  "functionalActivity": "Cardiovascular Health",
+  "info": "Coenzyme Q-10 plus L-Carnitine is an powerful protective antioxidant, supports fat, carbohydrate, protein metabolism, production of ATP and heart, cognitive function",
+  "type": "CAPSULE"
+}, {
+  "id": 45,
+  "name": "Co Q-10 plus Cinnamon Capsules",
+  "sellingPoint": "Cardiovascular Health",
+  "category": "Heart health",
+  "functionalActivity": "Cardiovascular Health",
+  "info": "Coenzyme Q-10 plus Cinnamon Capsules enhances immune system, improves energy production, heart health, weight loss and lowers blood pressure",
+  "type": "CAPSULE"
+}, {
+  "id": 46,
+  "name": "Co  Q-10 plus Omega -3 Capsules",
+  "sellingPoint": "Cardiovascular Health",
+  "category": "Heart health",
+  "functionalActivity": "Cardiovascular Health",
+  "info": "Coenzyme Q-10 with Omega-3 helpful in boosting energy, immunity, supports healthy heart, blood pressure and Omega-3 maintains healthy triglycerides levels",
+  "type": "CAPSULE"
+}, {
+  "id": 47,
+  "name": "Co Q-10 plus Vitamin E Capsules",
+  "sellingPoint": "Cardiovascular Health",
+  "category": "Heart health",
+  "functionalActivity": "Cardiovascular Health",
+  "info": "Coenzyme Q-10 plus vitamin E are effective antioxidant, anti-inflammatory, supports heart health and useful in treatment of cancer, neurodegenerative diseases",
+  "type": "CAPSULE"
+}, {
+  "id": 48,
+  "name": "Omega-3-fatty acid with Multivitamin Capsules",
+  "sellingPoint": "Cardiovascular Health, Brain memory improvement",
+  "category": "Heart health",
+  "functionalActivity": "Cardiovascular Health",
+  "info": "Omega-3-fatty acid with Multivitamin supports the cardiovascular system and lowers triglycerides",
+  "type": "CAPSULE"
+}, {
+  "id": 49,
+  "name": "RELFIBER Powder",
+  "sellingPoint": "Constipation Supplement, Bowel Movement, Colon cleaner",
+  "category": "Protein Powder",
+  "functionalActivity": "Constipation Supplement",
+  "info": "Relfiber is a dietary supplement for people who suffer with constipation",
+  "type": "POWDER"
+}, {
+  "id": 50,
+  "name": "Senna  capsules",
+  "sellingPoint": "Constipation Supplement, Bowel Movement, Colon cleanser",
+  "category": "Herbal Products",
+  "functionalActivity": "Constipation Supplement",
+  "info": "Senna is a powerful purgative herb that acts as an intestinal cleanser, strong laxative to support regularity and for the relief of constipation",
+  "type": "CAPSULE"
+}, {
+  "id": 51,
+  "name": "Senna  with Isabgol",
+  "sellingPoint": "Constipation Supplement, Bowel Movement, Colon cleanser",
+  "category": "Herbal Products",
+  "functionalActivity": "Constipation Supplement",
+  "info": "Seena with Isabgol provides quick relief from the constipation ",
+  "type": "CAPSULE"
+}, {
+  "id": 52,
+  "name": "Helios Turmeric Coffee",
+  "sellingPoint": "Detoxifier, Immune booster, Anti Aging",
+  "category": "Milk/Tea Powders",
+  "functionalActivity": "Anti Aging & Immune booster",
+  "info": "Helios Turmeric Coffee is a premium quality coffee made out of Turmeric extracts. Tumeric has been used as traditional ayurvedic medicine and is considered as a cleansing herb for the entire body, and is used to support digestion, treat infection, headaches, inflammation and fever, helps in weight management and relieves pain",
+  "type": "COFFEE"
+}, {
+  "id": 53,
+  "name": "EDTA Capsules",
+  "sellingPoint": "Detoxifier, Liver Health, Cardiovascular Health",
+  "category": "Digestion/Intestinal Health",
+  "functionalActivity": "Metal Detoxification",
+  "info": "EDTA is a chelating agent designed to bind and render certain trace metals inactive. This product is intended to supplement intravenous chelation therapy of plaque and other mineral deposits throughout the cardiovascular system",
+  "type": "CAPSULE"
+}, {
+  "id": 54,
+  "name": "Cinnamon Capsules",
+  "sellingPoint": "Diabetic & Cardiovascular Health, Anti arthritic, Memory booster",
+  "category": "Diabetic Support",
+  "functionalActivity": "Diabetic & Cardiovascular Health",
+  "info": "Cinnamon is a supplement effective against many health problems, useful for diabetic people in keeping their blood sugar level in check and also reduces the risk of heart diseases, joint pain, improves the memory power and cognitive thinking",
+  "type": "CAPSULE"
+}, {
+  "id": 55,
+  "name": "Fenugreek Capsules",
+  "sellingPoint": "Diabetic care, Women & lactating mother health",
+  "category": "Diabetic Support",
+  "functionalActivity": "Diabetic Support",
+  "info": "Fenugreek is an ancient herb, which cures various digestion problems and it maintains healthy blood sugar levels, work well for lactating mothers",
+  "type": "CAPSULE"
+}, {
+  "id": 56,
+  "name": "PRIME PRO-D",
+  "sellingPoint": "Diabetic Protein Supplement",
+  "category": "Protein Powder",
+  "functionalActivity": "Diabetic Protein Supplement",
+  "info": "Prime pro-D is a protein supplement for diabetic and pre diabetic patients",
+  "type": "POWDER"
+}, {
+  "id": 57,
+  "name": "Karela Capsules",
+  "sellingPoint": "Diabetic Supplement, Liver & Pancreas health, Detoxifier",
+  "category": "Herbal Products",
+  "functionalActivity": "Diabetic Supplement",
+  "info": "Karela is used in the treatment of diabetes I & II, and reduces blood glucose levels",
+  "type": "CAPSULE"
+}, {
+  "id": 58,
+  "name": "Oxy Powder",
+  "sellingPoint": "Digestion/Intestinal Health",
+  "category": "Digestion/Intestinal Health",
+  "functionalActivity": "Digestion/Intestinal Health",
+  "info": "Oxy powder provides steady, control stream of oxygen into your body over a least of 18-hour period and gently cleanses, detoxifies entire digestive tract and relieve bloating",
+  "type": "POWDER"
+}, {
+  "id": 59,
+  "name": "Pre & Probiotic with Psyllium Husk, zinc Capsules",
+  "sellingPoint": "Digestive and Intestinal Health, Colon Cleaner",
+  "category": "Digestion/Intestinal Health",
+  "functionalActivity": "Digestive Health",
+  "info": "Pre & Pro biotics restore the bacterial balance in the digestive tract, this combination is  useful in Chronic Constipation, Irritable bowel syndrome, Cystitis and Urethritis",
+  "type": "CAPSULE"
+}, {
+  "id": 60,
+  "name": "Pre & Probiotics Capsules",
+  "sellingPoint": "Digestive and Intestinal Health, Colon Cleaner",
+  "category": "Digestion/Intestinal Health",
+  "functionalActivity": "Digestive Health",
+  "info": "This stimulates the growth and/or activity of beneficial bacteria (Probiotic) in colon and is useful in infection & antibiotic associated diarrhea, Gastro Enteritis, increases intestinal mucosal barrier, Irritable bowel syndrome and inflammatory bowel disease",
+  "type": "CAPSULE"
+}, {
+  "id": 61,
+  "name": "Probiotics Capsules",
+  "sellingPoint": "Digestive and Intestinal Health, Colon Cleaner",
+  "category": "Digestion/Intestinal Health",
+  "functionalActivity": "Digestive Health",
+  "info": "This stimulates the growth and/or activity of beneficial bacteria (Probiotic) in colon and is useful in infection & antibiotic associated diarrhea, Gastro Enteritis, increases intestinal mucosal barrier, Irritable bowel syndrome and inflammatory bowel disease",
+  "type": "CAPSULE"
+}, {
+  "id": 62,
+  "name": "Probiotics with Omega -3",
+  "sellingPoint": "Digestive and Intestinal Health, Colon Cleaner",
+  "category": "Digestion/Intestinal Health",
+  "functionalActivity": "Digestive Health",
+  "info": "This stimulates the growth and/or activity of beneficial bacteria (Probiotic) in colon and is useful in infection & antibiotic associated diarrhea, GastroEnteritis, increases intestinal mucosal barrier, Irritable bowel syndrome and inflammatory bowel disease",
+  "type": "CAPSULE"
+}, {
+  "id": 63,
+  "name": "Psyllium Husk Capsules",
+  "sellingPoint": "Digestive and Intestinal Health, Colon Cleaner",
+  "category": "Digestion/Intestinal Health",
+  "functionalActivity": "Digestive Health",
+  "info": "Psyllium husk is a natural fiber that works as a laxative and it maintains digestive regularity",
+  "type": "CAPSULE"
+}, {
+  "id": 64,
+  "name": "Flaxseed fat Powder (ALA)",
+  "sellingPoint": "Food application",
+  "category": "Nutraceutical Raw materials",
+  "functionalActivity": "Food application",
+  "info": "Flaxseed fat Powder is a high content of alpha-linolenic fatty acid (ALA), ALA effective against cardiovascular diseases and ingredient for food applications",
+  "type": "POWDER"
+}, {
+  "id": 65,
+  "name": "PRIME PRO – B",
+  "sellingPoint": "General Health Protein Supplement",
+  "category": "Protein Powder",
+  "functionalActivity": "General Health Protein Supplement",
+  "info": "Prime pro-B is a protein supplement for general weakness, malnutrition, fatigue, convalescence, hospitalised patients, anaemia, immuno-compromised patients, hyper catabolic conditions like cancer and burns, anorexia, acute & chronic Infections",
+  "type": "POWDER"
+}, {
+  "id": 66,
+  "name": "Ginsing Capsules",
+  "sellingPoint": "Immune Booster, Anti Stress, Anti-inflammatory, Anti-allergic, Anti-cancer",
+  "category": "Herbal Products",
+  "functionalActivity": "Immune Booster & Anti Stress",
+  "info": "Ginseng is traditionally used as an adaptogen, optimizes all body functions, anti aging, neuroprotective, improves cognitive function, concentration & memory, anti-hypertensive, immune booster, improves energy levels, reduces stress, anti-inflammatory, anti-allergic, anti-cancer, potent aphrodisiac",
+  "type": "CAPSULE"
+}, {
+  "id": 67,
+  "name": "Ginseng with Multivitamin Capsules",
+  "sellingPoint": "Immune Booster, Anti Stress, Cardiovascular health",
+  "category": "Herbal Products",
+  "functionalActivity": "Immune Booster & Anti Stress",
+  "info": "This combination helps to rejuvenates, strengthens body organs, helps in countering fatigue, strengthen immune function, prevent cardiovascular diseases",
+  "type": "CAPSULE"
+}, {
+  "id": 68,
+  "name": "Garlic Capsules",
+  "sellingPoint": "Immune Booster, Anti-bacterial, Anti-fungal, Anti-viral, Cardiovascular & Diabetic health",
+  "category": "Herbal Products",
+  "functionalActivity": "Immune Booster",
+  "info": "Garlic supports cardiovascular system, improves immune response, promotes digestive health",
+  "type": "CAPSULE"
+}, {
+  "id": 69,
+  "name": "Colostrum Capsules",
+  "sellingPoint": "Immune Booster, Gastrointestinal health, Anti aging",
+  "category": "Herbal Products",
+  "functionalActivity": "Immune Booster & Anti aging",
+  "info": "Colostrum is a pre-milk fluid produced by all mammals during the first 24-48 hours after giving birth. Colostrum keeps gastrointestinal tract healthy, helps relieve physical stress, Strengthens the immunity and antiaging",
+  "type": "CAPSULE"
+}, {
+  "id": 70,
+  "name": "L-Lysine Capsules",
+  "sellingPoint": "Immune Health, Skin Health",
+  "category": "Amino Acids",
+  "functionalActivity": "Immune Health",
+  "info": "L-Lysine is an essential amino acid; it is used for the health and Integrity of the skin & lips, supports immune system and is important for normal growth & development",
+  "type": "CAPSULE"
+}, {
+  "id": 71,
+  "name": "Kinsure Powder",
+  "sellingPoint": "Kids Protein Supplement",
+  "category": "Protein Powder",
+  "functionalActivity": "Kids Protein Supplement",
+  "info": "Kinsure is a protein supplement for children’s for brain memory improvement and healthy body metabolism",
+  "type": "POWDER"
+}, {
+  "id": 72,
+  "name": "Safed Musli Capsules",
+  "sellingPoint": "Reproductive Health & Fertility",
+  "category": "Herbal Products",
+  "functionalActivity": "Sexual Health",
+  "info": "Safed Musli is used as a tonic, rejuvenative for the reproductive system. It is very beneficial in premature ejaculation, impotence and low sperm count in men",
+  "type": "CAPSULE"
+}, {
+  "id": 73,
+  "name": "Shilajit Capsules",
+  "sellingPoint": "Reproductive Health & Fertility, Anti Sress",
+  "category": "Herbal Products",
+  "functionalActivity": "Sexual Health & Anti Sress",
+  "info": "Shilajit is a rich source of natural occurring minerals and fulvic acid to counteract free radicals, reverse the aging process, increase strength, sexual energy and it regulates blood sugar levels",
+  "type": "CAPSULE"
+}, {
+  "id": 74,
+  "name": "Cranberry Capsules",
+  "sellingPoint": "Urinary tract health",
+  "category": "Herbal Products",
+  "functionalActivity": "Urinary tract health",
+  "info": "Cranberry used to support urinary tract health",
+  "type": "CAPSULE"
+}, {
+  "id": 75,
+  "name": "Carb Controller Capsules",
+  "sellingPoint": "Weight Management",
+  "category": "",
+  "functionalActivity": "",
+  "info": "Helios Carb controller white kidney bean extract (Phaseolus vulgaris Extract), which prevents the starch digestion through inhibition of an alpha-amylase enzyme, thus reduces caloric impact, glycemic index (GI) and starch to sugar to fat conversion and helps in weight loss",
+  "type": "CAPSULE"
+}, {
+  "id": 76,
+  "name": "Garcinia cambogia Capsules",
+  "sellingPoint": "Weight management",
+  "category": "Herbal Products",
+  "functionalActivity": "Weight management",
+  "info": "Garcinia cambogia is a weight loss supplement, Hydroxy citric acid in garcinia cambogia helps to slow down fat formation, supports hunger management, food craving and provides metabolism",
+  "type": "CAPSULE"
+}, {
+  "id": 77,
+  "name": "Garcinia Guggul capsules",
+  "sellingPoint": "Weight management",
+  "category": "Herbal Products",
+  "functionalActivity": "Weight management",
+  "info": "Garcinia Guggul is a natural proven formula to supports normal lipid metabolism, healthy levels within their normal range and support healthy weight management",
+  "type": "CAPSULE"
+}, {
+  "id": 78,
+  "name": " Green Coffee bean Capsules ",
+  "sellingPoint": " Weight Management ",
+  "category": " Herbal Products ",
+  "functionalActivity": "Weight management",
+  "info": " Green coffee bean extract contains phytonutrients and natural substance chlorogenic acid, which is found to have intense effect against fighting obesity. It supports healthy glucose levels, blood pressure levels and promotes general health ",
+  "type": "CAPSULE"
+}, {
+  "id": 79,
+  "name": "Raspberry Capsules",
+  "sellingPoint": "Weight Management",
+  "category": "",
+  "functionalActivity": "",
+  "info": "Helios Raspberry Ketones are natural extracts from red raspberries clinically proven to promote weight loss in natural way. Raspberry Ketones speed up metabolism and increases lipolysis (fat breakdown) in the body, thereby helping in weight loss",
+  "type": "CAPSULE"
+}, {
+  "id": 80,
+  "name": "Gamma-linolenic acid Powder (GLA)",
+  "sellingPoint": "Weight management & Anti inflammatory ",
+  "category": "Nutraceutical Raw materials",
+  "functionalActivity": "Weight management & Anti inflammatory ",
+  "info": "GLA is Omega 6 fatty acid, it supports the body natural anti-inflammatory response and is especially useful for managing weight, improving skin health and maintaining hormonal balance for women",
+  "type": "CAPSULE"
+}, {
+  "id": 81,
+  "name": "HYSLIM Powder",
+  "sellingPoint": "Weight management Supplement",
+  "category": "Protein Powder",
+  "functionalActivity": "Weight management Supplement",
+  "info": "Hyslim is a complete dietary supplement for weight management, which has fat burning components and aids in quick weight loss",
+  "type": "CAPSULE"
+}, {
+  "id": 82,
+  "name": "Spirulina Capsules",
+  "sellingPoint": "Weight Management, Anti Aging, Diabetic & Cardiovascular health",
+  "category": "Herbal Products",
+  "functionalActivity": "Weight Management & Anti Aging",
+  "info": "Spiruline is an anti oxidant, anti aging, richest source of natural protein; it controls obesity and heart disease and also arthritis",
+  "type": "CAPSULE"
+}, {
+  "id": 83,
+  "name": "Guggul Capsules",
+  "sellingPoint": "Weight management, Immune Booster, Joint Health",
+  "category": "Herbal Products",
+  "functionalActivity": "Weight management",
+  "info": "Guggul maintains normal cholesterol levels, normal HDL-LDL ratio, triglyceride levels, helps in losing weight, supports comfortable movement of the joints and the immune system",
+  "type": "CAPSULE"
+}, {
+  "id": 84,
+  "name": "She Coffee",
+  "sellingPoint": "Women & Lactating mothers Health",
+  "category": "Coffee Powders",
+  "functionalActivity": "Women Health",
+  "info": "SHE Coffee is a delicious healthy beverage from Shatavari extract which supports for women health",
+  "type": "COFFEE"
+}, {
+  "id": 85,
+  "name": "MOM & BABY Powder",
+  "sellingPoint": "Womens Health",
+  "category": "Protein Powder",
+  "functionalActivity": "Womens Health",
+  "info": "MOM & BABY Protein Powder is a maternal nutrition supplement for pregnant women and breastfeeding mothers. Ideal for all age groups for pregnant women (0-9 months) and for lactating women (0-2 years) or till the time of breast feeding continues",
+  "type": "POWDER"
+}, {
+  "id": 86,
+  "name": "Shatavari Capsules",
+  "sellingPoint": "Womens Health, Reproductive Health & Fertility",
+  "category": "Herbal Products",
+  "functionalActivity": "Womens Health",
+  "info": "Shatavari is a natural plant based phyto estrogen, it support the health of lactating mothers and increases fertility in women’s",
+  "type": "CAPSULE"
+}]
